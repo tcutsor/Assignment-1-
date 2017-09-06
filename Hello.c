@@ -4,6 +4,6 @@
 
 int main(int argc, char **argv) {
 
-printf("Hello\nJack Arens and Trevor Cutsor\n");
+printf("Hello,\nJack Arens and Trevor Cutsor\n");
 
 }
